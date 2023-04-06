@@ -1,11 +1,2 @@
-ZoYo and ZoYo Bot Here is some useful information about me
-Use me as best as possible and as comfortable as possible, Use my commands as you want Then don't forget to follow the official rules from discord, namely the Terms of Service and Community Guidelines!
-
-Getting started
-You can use Zhelp to get information about the bot, the commands list, or information about a specific command.
-
-Need help?
-Join my support server or check out the website!
-You can manage your server using the dashboard (Coming Soon).
-
-If you want to know what updates about me, you can join our Discord Support Server. If you really want to know, click the button below
+It's ZoYo a purpose bot to discord commands economy setups general gamble and more?
+ZoYo is the newest for you that has Economy Commands & Gamble Commands ZoYo We Thank The Customers for Reading Our Privacy Policy, And We Assure All Customers That Their Data And Personal Information Will Be Completely Safe, Because We Are Responsible For Maintaining That Data And We Strive In Various WaysWhat Data We Store ?We Just Store userId-The userId is collecting all user data-We Store cowoncy Of UserWhy We Store Data And Where We Store Data ?userId data:-We Store userId Because if We Don’t Store it All Cash User Will Be Gone-And Data Stored On Mongodb And Very Secure And EncryptedHow Long We Store User Data ?-According to the person who uses the bot-Or User Can Request To Deletion DataChanges To This Privacy Policy-We May Revise This Privacy Policy At Any Time.-These Changes Are Effective Immediately After They Are Posted On This Page.Are We Sell Or Share Users Data ?-No, We Do Not Sell and Share Any Data Stored by ZoYo.Can Users Request Deletion Thier Data ?-Yes, Users Can Any Time To Request Deletion Thier Data.-Users Can Join Support Server Or Dm Owner Or Contact With Email For Deletion Thier Data
