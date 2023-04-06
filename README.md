@@ -1,2 +1,9 @@
-It's ZoYo a purpose bot to discord commands economy setups general gamble and more?
-ZoYo is the newest for you that has Economy Commands & Gamble Commands ZoYo We Thank The Customers for Reading Our Privacy Policy, And We Assure All Customers That Their Data And Personal Information Will Be Completely Safe, Because We Are Responsible For Maintaining That Data And We Strive In Various WaysWhat Data We Store ?We Just Store userId-The userId is collecting all user data-We Store cowoncy Of UserWhy We Store Data And Where We Store Data ?userId data:-We Store userId Because if We Don’t Store it All Cash User Will Be Gone-And Data Stored On Mongodb And Very Secure And EncryptedHow Long We Store User Data ?-According to the person who uses the bot-Or User Can Request To Deletion DataChanges To This Privacy Policy-We May Revise This Privacy Policy At Any Time.-These Changes Are Effective Immediately After They Are Posted On This Page.Are We Sell Or Share Users Data ?-No, We Do Not Sell and Share Any Data Stored by ZoYo.Can Users Request Deletion Thier Data ?-Yes, Users Can Any Time To Request Deletion Thier Data.-Users Can Join Support Server Or Dm Owner Or Contact With Email For Deletion Thier Data
+- Zoyo is a Discord bot that offers various commands and features to enhance the Discord experience. The bot allows users to easily manage their servers and interact with other members.
+
+Some of the general commands available with Zoyo include the ability to view server information, set welcome messages, and manage roles and permissions. Users can also use commands to generate GIFs, memes, and random images.
+
+Zoyo also has music commands, allowing users to listen to high-quality songs directly on Discord.
+
+Another notable feature of Zoyo is the giveaway config commands, which allows server administrators to set up and manage giveaways on their server. The bot provides a simple and intuitive way to create and run giveaways, making it easier for community managers to engage their members.
+
+Overall, Zoyo is a versatile and feature-rich Discord bot that offers a range of functionalities to enhance the user experience. With its extensive list of commands and easy-to-use interface, it's a great tool for server management and community engagement.
